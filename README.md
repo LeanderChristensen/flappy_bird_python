@@ -2,7 +2,7 @@
 
 A simple Flappy Bird clone implemented in Python using Pygame.
 
-![Image of game](https://i.imgur.com/fRZ0Bgp.png)
+![Image of game](https://i.imgur.com/gydV0Pw.gif)
 
 ## How to Play
 - Go to the Releases section on the right side of the GitHub page.
