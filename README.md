@@ -24,4 +24,4 @@ python game.py
 ```
 
 ## Web
-You can also try the [web version](https://l-c.io/games/flappybird/), but it doesn't feel the same, the movement and speed feels off, there is something wrong with the web assembly translation.
+You can also try the [web version](https://leanderchristensen.com/fun/flappybird/), but it doesn't feel the same, the movement and speed feels off, there is something wrong with the web assembly translation.
